@@ -1,6 +1,6 @@
 # BasicCAD
 ## header 2
 
-regualr text 
+regular text 
 
 :metal:
